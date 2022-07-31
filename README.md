@@ -13,3 +13,4 @@ python scripts to run deep learning algorithms that is researching subjects
 cd scripts
 bash python demo.sh
 ```
+> !!!Warning!!! : Currently, only can be used in our lab system. May update later.
